@@ -6,18 +6,18 @@ The files todo_*.bash include the commands used to reduce all the CARMENES-VIS s
 
 Literature references for the vsini are:
 
-### References
+### Literature references for vsini
 
-- **Rein18** — Reiners et al. 2018, *A&A*, 612, 49  
-- **Fou18** — Fouqué et al. 2018, *MNRAS*, 475, 1960  
-- **Jen09** — Jenkins et al. 2009, *ApJ*, 704, 975  
-- **Barn14** — Barnes et al. 2014, *MNRAS*, 439, 3094  
-- **Del98** — Delfosse et al. 1998, *A&A*, 331, 581  
-- **Jeff18** — Jeffers et al. 2018, *A&A*, 614, 76  
-- **MR14** — Martínez-Rodríguez 2014, MSc thesis, Universidad Complutense de Madrid, Spain  
-- **Bro10** — Browning et al. 2010, *A&A*, 139, 504  
-- **Tor06** — Torres et al. 2006, *A&A*, 460, 695  
-- **Marf21** — Marfil et al. 2021, *Submitted to A&A*
+- Rein18 — Reiners et al. 2018, *A&A*, 612, 49  
+- Fou18 — Fouqué et al. 2018, *MNRAS*, 475, 1960  
+- Jen09 — Jenkins et al. 2009, *ApJ*, 704, 975  
+- Barn14 — Barnes et al. 2014, *MNRAS*, 439, 3094  
+- Del98 — Delfosse et al. 1998, *A&A*, 331, 581  
+- Jeff18 — Jeffers et al. 2018, *A&A*, 614, 76  
+- MR14 — Martínez-Rodríguez 2014, MSc thesis, Universidad Complutense de Madrid, Spain  
+- Bro10 — Browning et al. 2010, *A&A*, 139, 504  
+- Tor06 — Torres et al. 2006, *A&A*, 460, 695  
+- Marf21 — Marfil et al. 2021, *Submitted to A&A*
 
 
 If you have any question, do not hesitate to contact me at rvaras@iaa.es or varas_roberto@outlook.es
