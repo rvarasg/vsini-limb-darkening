@@ -4,8 +4,6 @@ The files todo_*.bash include the commands used to reduce all the CARMENES-VIS s
 
 ![Image](https://github.com/user-attachments/assets/2a4bc439-0c89-4c0f-819a-bb1b4b17f998)
 
-Literature references for the vsini are:
-
 ### Literature references for vsini
 
 - Rein18 — Reiners et al. 2018, *A&A*, 612, 49  
