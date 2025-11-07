@@ -15,7 +15,7 @@ The files todo_*.bash include the commands used to reduce all the CARMENES-VIS s
 - MR14 — Martínez-Rodríguez 2014, MSc thesis, Universidad Complutense de Madrid, Spain  
 - Bro10 — Browning et al. 2010, *A&A*, 139, 504  
 - Tor06 — Torres et al. 2006, *A&A*, 460, 695  
-- Marf21 — Marfil et al. 2021, *Submitted to A&A*
+- Marf21 — Marfil et al. 2021, *A&A*, 656, 162
 
 
 If you have any question, do not hesitate to contact me at rvaras@iaa.es or varas_roberto@outlook.es
