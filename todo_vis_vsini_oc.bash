@@ -66,7 +66,7 @@ serval J04376+528 autolis/J04376+528.lis -inst CARM_VIS -vsiniauto -tpl tpl/J142
 serval J04376-110 autolis/J04376-110.lis -inst CARM_VIS -vsiniauto -tpl tpl/J16254+543.fits -nset ::2 -safemode 2 -targ BD-11_916 -targrv -7.1261635 -tplrv -13.3674 # Nfits = 52, SpT = M1.5V
 serval J04406-128 autolis/J04406-128.lis -inst CARM_VIS -vsiniauto -tpl tpl/J14257+236W.fits -nset ::2 -safemode 2 -targ TOI-2457 -targrv -0.04701331 -tplrv 8.946947 # Nfits = 54, SpT = M0.0V
 serval J04429+189 autolis/J04429+189.lis -inst CARM_VIS -vsiniauto -tpl tpl/J06103+821.fits -nset ::1 -safemode 2 -targ HD_285968 -targrv 25.82175 -tplrv -2.0164733 # Nfits = 23, SpT = M2.0V
-serval J04429+214 autolis/J04429+214.lis -inst CARM_VIS -vsiniauto -tpl tpl/J14310-122.fits -nset ::1 -safemode 2 -targ 2M_J04425586+2128230 -targrv 3.1098452 -tplrv -1.9218786 # Nfits = 25, SpT = M3.5V
+serval J04429+214 autolis/J04429+214.lis -inst CARM_VIS -vsiniauto -tpl tpl/J14310-122.fits -nset ::1 -safemode 2 -targ 2MASS_J04425586+2128230 -targrv 3.1098452 -tplrv -1.9218786 # Nfits = 25, SpT = M3.5V
 serval J04472+206 autolis/J04472+206.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::1 -safemode 2 -targ RX_J0447.2+2038 -targrv 23.374788 -tplrv 28.16455 # Nfits = 12, SpT = M5.0V
 serval J04520+064 autolis/J04520+064.lis -inst CARM_VIS -vsiniauto -tpl tpl/J14310-122.fits -nset ::1 -safemode 2 -targ Wolf_1539 -targrv -8.284804 -tplrv -1.9218786 # Nfits = 10, SpT = M3.5V
 serval J04538-177 autolis/J04538-177.lis -inst CARM_VIS -vsiniauto -tpl tpl/J06103+821.fits -nset ::1 -safemode 2 -targ GJ_180 -targrv -14.868612 -tplrv -2.0164733 # Nfits = 25, SpT = M2.0V
@@ -75,7 +75,7 @@ serval J05019+011 autolis/J05019+011.lis -inst CARM_VIS -vsiniauto -tpl tpl/J114
 serval J05019-069 autolis/J05019-069.lis -inst CARM_VIS -vsiniauto -tpl tpl/J11477+008.fits -nset ::1 -safemode 2 -targ LP_656-038 -targrv 42.286324 -tplrv -31.073 # Nfits = 8, SpT = M4.0V
 serval J05033-173 autolis/J05033-173.lis -inst CARM_VIS -vsiniauto -tpl tpl/J15194-077.fits -nset ::4 -safemode 2 -targ LP_776-046 -targrv 14.761837 -tplrv -9.745852 # Nfits = 89, SpT = M3.0V
 serval J05062+046 autolis/J05062+046.lis -inst CARM_VIS -vsiniauto -tpl tpl/J11477+008.fits -nset ::1 -safemode 2 -targ RX_J0506.2+0439 -targrv 20.132027 -tplrv -31.073 # Nfits = 13, SpT = M4.0V
-serval J05084-210 autolis/J05084-210.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::3 -safemode 2 -targ 2M_J05082729-2101444 -targrv 22.2139438474249 -tplrv 28.16455 # Nfits = 60, SpT = M5.0V
+serval J05084-210 autolis/J05084-210.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::3 -safemode 2 -targ 2MASS_J05082729-2101444 -targrv 22.2139438474249 -tplrv 28.16455 # Nfits = 60, SpT = M5.0V
 serval J05127+196 autolis/J05127+196.lis -inst CARM_VIS -vsiniauto -tpl tpl/J06103+821.fits -nset ::2 -safemode 2 -targ GJ_192 -targrv -25.338804 -tplrv -2.0164733 # Nfits = 53, SpT = M2.0V
 serval J05280+096 autolis/J05280+096.lis -inst CARM_VIS -vsiniauto -tpl tpl/J14310-122.fits -nset ::1 -safemode 2 -targ Ross_41 -targrv 60.5894 -tplrv -1.9218786 # Nfits = 18, SpT = M3.5V
 serval J05314-036 autolis/J05314-036.lis -inst CARM_VIS -vsiniauto -tpl tpl/J16254+543.fits -nset ::4 -safemode 2 -targ HD_36395 -targrv 8.195142 -tplrv -13.3674 # Nfits = 99, SpT = M1.5V
@@ -99,9 +99,9 @@ serval J06371+175 autolis/J06371+175.lis -inst CARM_VIS -vsiniauto -tpl tpl/J142
 serval J06396-210 autolis/J06396-210.lis -inst CARM_VIS -vsiniauto -tpl tpl/J11477+008.fits -nset ::2 -safemode 2 -targ LP_780-032 -targrv -7.42638625181251 -tplrv -31.073 # Nfits = 59, SpT = M4.0V
 serval J06421+035 autolis/J06421+035.lis -inst CARM_VIS -vsiniauto -tpl tpl/J14310-122.fits -nset ::1 -safemode 2 -targ G_108-021 -targrv 82.75351 -tplrv -1.9218786 # Nfits = 21, SpT = M3.5V
 serval J06548+332 autolis/J06548+332.lis -inst CARM_VIS -vsiniauto -tpl tpl/J15194-077.fits -nset ::29 -safemode 2 -targ Wolf_294 -targrv 22.296476 -tplrv -9.745852 # Nfits = 588, SpT = M3.0V
-serval J06574+740 autolis/J06574+740.lis -inst CARM_VIS -vsiniauto -tpl tpl/J11477+008.fits -nset ::1 -safemode 2 -targ 2M_J06572616+7405265 -targrv -2.6875922860027 -tplrv -31.073 # Nfits = 14, SpT = M4.0V
+serval J06574+740 autolis/J06574+740.lis -inst CARM_VIS -vsiniauto -tpl tpl/J11477+008.fits -nset ::1 -safemode 2 -targ 2MASS_J06572616+7405265 -targrv -2.6875922860027 -tplrv -31.073 # Nfits = 14, SpT = M4.0V
 serval J06594+193 autolis/J06594+193.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::1 -safemode 2 -targ GJ_1093 -targrv -28.632467 -tplrv 28.16455 # Nfits = 31, SpT = M5.0V
-serval J07001-190 autolis/J07001-190.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::1 -safemode 2 -targ 2M_J07000682-1901235 -targrv 13.9593 -tplrv 28.16455 # Nfits = 28, SpT = M5.0V
+serval J07001-190 autolis/J07001-190.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::1 -safemode 2 -targ 2MASS_J07000682-1901235 -targrv 13.9593 -tplrv 28.16455 # Nfits = 28, SpT = M5.0V
 serval J07033+346 autolis/J07033+346.lis -inst CARM_VIS -vsiniauto -tpl tpl/J11477+008.fits -nset ::1 -safemode 2 -targ LP_255-011 -targrv 2.9541428 -tplrv -31.073 # Nfits = 15, SpT = M4.0V
 serval J07044+682 autolis/J07044+682.lis -inst CARM_VIS -vsiniauto -tpl tpl/J15194-077.fits -nset ::1 -safemode 2 -targ GJ_258 -targrv -50.756805 -tplrv -9.745852 # Nfits = 18, SpT = M3.0V
 serval J07051-101 autolis/J07051-101.lis -inst CARM_VIS -vsiniauto -tpl tpl/J03133+047.fits -nset ::1 -safemode 2 -targ 2MASS_J07051194-1007528 -targrv 36.246857 -tplrv 28.16455 # Nfits = 16, SpT = M5.0V
@@ -401,3 +401,4 @@ sleep 2
 end=$(date +%s)
 elapsed=$(( end - start ))
 echo "Elapsed time: ${elapsed} seconds"
+
