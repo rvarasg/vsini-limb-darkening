@@ -7,7 +7,7 @@ The files todo_*.bash include the commands used to reduce all the CARMENES-VIS s
 
 Here you can find an <a href="https://raw.githack.com/mzechmeister/csvplotter/master/csv_plotter.htm?url=https://raw.githubusercontent.com/rvarasg/vsini-limb-darkening/refs/heads/main/carmenes-vis_vsini_catalogue.csv&cx=$vsini_oc_kms-1&cy=$vsini_literature_kms-1&ce_x=$err_oc_kms-1&ce_y=$err_literature_kms-1&ct=$karmn&cc=$equatorial_velocity_kms-1&funcf=x&funcc=%231f77b4&funco=0.9">interactive plot</a> with the results.
 
-![Image](https://github.com/user-attachments/assets/2a4bc439-0c89-4c0f-819a-bb1b4b17f998)
+![Image](vsini_v3.pdf)
 
 ### Literature references for vsini
 
