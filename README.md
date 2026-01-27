@@ -21,4 +21,4 @@ Here you can find an <a href="https://raw.githack.com/mzechmeister/csvplotter/ma
 - Marf21 — Marfil et al. 2021, *A&A*, 656, 162
 
 
-If you have any question, do not hesitate to contact me at rvaras@iaa.es or varas_roberto@outlook.es
+If you have any question, do not hesitate to contact me at rvaras@iaa.es or rvarasg@proton.me
