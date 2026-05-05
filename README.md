@@ -1,4 +1,6 @@
-This repository includes the files used to obtain the results (also here included) in our work <i>"The CARMENES search for exoplanets around M dwarfs. A homogeneous catalogue of projected rotational velocities accounting for limb darkening"</i> that we are about to submit to the Astronomy and Astrophysics journal. 
+Welcome to this repository! 
+
+This repository includes the files used to obtain the results (also here included) in our work <i>"The CARMENES search for exoplanets around M dwarfs. A homogeneous catalogue of projected rotational velocities accounting for limb-darkening"</i> (https://doi.org/10.48550/arXiv.2604.15428), accepted by the Astronomy and Astrophysics journal. 
 
 We applied our methodology to nearly 400 M dwarfs observed with CARMENES, the method yields <i>v</i>sin<i>i</i> values above 2 km/s (with only upper limits below this threshold) and a median relative uncertainty of 6.5 %, compared to 15.4 % for literature values. The method is independent of spectral type and stellar parameters, but here is applied to stars with T<sub>eff</sub> = 2500 – 4000 K, log<i>g</i> = 5.0 – 5.5, and solar metallicity,
 covering the CARMENES M-dwarf sample. Future work could explore a broader set of stellar parameters and using CARMENES-NIR spectra.
